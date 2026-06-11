@@ -1,0 +1,1 @@
+export default function PhotoGallery(){return <section><p>Photo Gallery</p></section>}

@@ -1,0 +1,1 @@
+export default function FinalConfession(){return <section><p>You're special ❤️</p></section>}

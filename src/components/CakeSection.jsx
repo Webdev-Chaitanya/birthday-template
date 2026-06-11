@@ -1,0 +1,1 @@
+export default function CakeSection(){return <section><button>Cut Cake 🎂</button></section>}

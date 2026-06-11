@@ -1,0 +1,1 @@
+export default function Countdown(){return <section><h2>Countdown</h2></section>}

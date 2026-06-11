@@ -1,0 +1,1 @@
+export default function MusicPlayer(){return <section><p>Soft Music Player</p></section>}

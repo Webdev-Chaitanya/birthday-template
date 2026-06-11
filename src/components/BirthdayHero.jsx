@@ -1,0 +1,1 @@
+export default function BirthdayHero(){return <section><h1>Happy Birthday Tanviii ❤️</h1></section>}
