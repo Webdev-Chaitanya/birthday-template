@@ -1,1 +1,4 @@
-npm install\nnpm run dev
+# birthday-wish
+
+npm install
+npm run dev
