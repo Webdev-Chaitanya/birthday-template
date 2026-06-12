@@ -31,7 +31,7 @@ export default function CakeSection({ onCut, cut, onNext, onBack }) {
             Tap the cake to cut it.
           </h2>
           <p className="max-w-xs sm:max-w-xl text-sm sm:text-base text-white/80 leading-relaxed">
-            When the cake is tapped, the warmth of your birthday wish blooms into something bright and kind.
+            Wishing you many many happy returns of the day.. have a year ahead filled with love, laughter, and all the things that make you happiest.
           </p>
           <div className="rounded-2xl sm:rounded-3xl border border-white/10 bg-white/5 p-4 sm:p-5 text-white/80">
             {cut ? (

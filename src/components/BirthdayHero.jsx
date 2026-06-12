@@ -19,9 +19,9 @@ export default function BirthdayHero({ onNext, onBack, hasOpened }) {
               <h1 className="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-semibold leading-tight text-white">
                 Happy Birthday Tanviii ❤️
               </h1>
-              <p className="mx-auto max-w-xs sm:max-w-md lg:max-w-2xl text-sm sm:text-base lg:text-lg text-white/80 leading-relaxed">
+              {/* <p className="mx-auto max-w-xs sm:max-w-md lg:max-w-2xl text-sm sm:text-base lg:text-lg text-white/80 leading-relaxed">
                 The universe became prettier on this day because you were born ✨
-              </p>
+              </p> */}
             </div>
             <button
               type="button"

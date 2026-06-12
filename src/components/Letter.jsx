@@ -3,13 +3,13 @@ import { motion } from 'framer-motion'
 
 const letter = [
   'Dear Tanviii,',
-  'Today is all about celebrating someone truly special.',
-  'I honestly don’t know when exactly it happened, but somewhere between our conversations and little moments, you became someone I genuinely look forward to hearing from.',
-  'You have this beautiful way of making ordinary days feel lighter and happier.',
-  'So, on your birthday, I just wanted to remind you how amazing you are.',
-  'May this year bring you countless reasons to smile, endless happiness, and everything your heart wishes for.',
-  'And hopefully… a few more conversations with me. 😌❤️',
-  'Happy Birthday, Tanviii.',
+  'Today is all about celebrating your special day.',
+  'Honestly i dont know how u r going to react, but its been more than month we meet on JS. Aple small talks & one meet tell me so much about u. Beetweeen those days i get to know that u r very mature, smart, honest, genuine, understanding, little angry but beautiful women.',
+  'I love the way u focused in ur work, aswell tu tuji life enjoy he krtes that makes u differant from others. I really admire that quality in u.',
+  'So, on your birthday, I just wanted to remind you how amazing personality u have.❤️',
+  'May this year bring you countless reasons to smile, endless happiness, and everything u wat to achieve.',
+  'And hopefully… Thode ajun conversations & connect with me to feel u spacial. 😌❤️',
+  'Happiest Birthday to youuu, Tanviii.',
   '— Chaitanya',
 ]
 

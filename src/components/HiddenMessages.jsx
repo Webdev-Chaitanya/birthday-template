@@ -5,7 +5,7 @@ const messages = [
   'Your smile is really pretty. ❤️',
   'You deserve all the happiness in the world. ✨',
   'Thank you for being you. 🌸',
-  'You make conversations feel effortless. ☕',
+  'You are the one i connect in very less span. ☕',
   'I hope this birthday becomes unforgettable. 🎂',
 ]
 

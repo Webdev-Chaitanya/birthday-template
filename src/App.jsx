@@ -13,7 +13,7 @@ import DateProposal from './components/DateProposal'
 import FinalConfession from './components/FinalConfession'
 import Fireworks from './components/Fireworks'
 
-const TARGET_DATE = new Date('2026-06-12T01:19:00')
+const TARGET_DATE = new Date('2026-06-16T00:00:00')
 
 function getTimeLeft(target) {
   const now = new Date()

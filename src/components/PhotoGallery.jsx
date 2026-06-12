@@ -47,7 +47,7 @@ export default function PhotoGallery({ onNext, onBack }) {
             Our Beautiful Memories ✨
           </p>
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold text-white">
-            A softly glowing collection of moments.
+            Our one & only one moment.
           </h2>
         </div>
 

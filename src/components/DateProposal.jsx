@@ -14,7 +14,7 @@ export default function DateProposal({ onAnswer, onNext, onBack, answer }) {
             One last thing...
           </p>
           <h2 className="text-xl sm:text-2xl lg:text-3xl xl:text-4xl font-semibold text-white leading-tight">
-            If this website made you smile even a little, would you like to go for coffee with me tomorrow? ☕❤️
+            If this website made you smile even a little, would you like to go for coffee with me any time? ☕❤️
           </h2>
         </div>
 
