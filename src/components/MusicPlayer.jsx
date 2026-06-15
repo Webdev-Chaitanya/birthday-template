@@ -60,6 +60,7 @@ export default function MusicPlayer({ isReady, onInteract }) {
             {playing ? 'Playing' : 'Tap to start'}
           </p>
         </div>
+        {/**
         <button
           type="button"
           onClick={toggle}
@@ -67,6 +68,7 @@ export default function MusicPlayer({ isReady, onInteract }) {
         >
           {playing ? <FaPause /> : <FaPlay />}
         </button>
+        **/}
       </div>
     </div>
   )
