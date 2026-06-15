@@ -5,7 +5,6 @@ import Countdown from './components/Countdown'
 import UnlockAnimation from './components/UnlockAnimation'
 import BirthdayHero from './components/BirthdayHero'
 import LetterSection from './components/LetterSection'
-import MusicPlayer from './components/MusicPlayer'
 import PhotoGallery from './components/PhotoGallery'
 import CakeSection from './components/CakeSection'
 import HiddenMessages from './components/HiddenMessages'
@@ -438,10 +437,6 @@ export default function App() {
           </motion.div>
         )}
       </AnimatePresence>
-
-      {musicStarted && currentScreen !== 'countdown' && currentScreen !== 'unlock' && (
-        <MusicPlayer isReady={musicStarted} onInteract={() => setMusicStarted(true)} />
-      )}
 
       {currentScreen === 'ending' && <Fireworks />}
     </div>
