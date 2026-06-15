@@ -25,10 +25,10 @@ export default function FinalConfession({ answer, onNext, onBack }) {
 
         <div className="rounded-2xl sm:rounded-3xl lg:rounded-[32px] border border-white/10 bg-[#0f1222]/80 p-5 sm:p-6 lg:p-8 text-sm sm:text-base text-white/90 space-y-3 sm:space-y-4 leading-7 sm:leading-8">
           <p>
-            But while making it, I realized it was also my way of telling you that i feel genuinelly connected to you & u become someone genuinely important to me.
+            But while making it, I realized it was also my way of telling you that i feel genuinelly connected to you.
           </p>
           <p>
-            I know its been very short time since we met, but sometime one mooment is enough to connect with someone & i feel that with you.
+            I know its been very short time since we met, but sometime one moment is enough to connect with someone & i feel that with you.
           </p>
           <p>
             No pressure. No expectations. Just honesty.

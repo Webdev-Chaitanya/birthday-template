@@ -431,7 +431,7 @@ export default function App() {
                   May your day glow with love, laughter, and magic.
                 </h1>
                 <p className="mt-4 text-sm sm:text-base text-white/80 leading-relaxed">
-                  This moment is just for you — a short celebration wrapped in warm wishes and quiet joy.
+                  This moment is just for you — a short celebration with warm wishes..
                 </p>
               </div>
             </ScreenPanel>
